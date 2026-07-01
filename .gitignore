@@ -1,0 +1,9 @@
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+*.csv
+outputs/
+data/
+__pycache__/
+.DS_Store
